@@ -1,2 +1,3 @@
 this is a file made for bug-fix
-javascript correction    
+javascript correction  
+this is third bug fix  
