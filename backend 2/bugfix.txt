@@ -1,1 +1,2 @@
 this is a file made for bug-fix
+javascript correction    
