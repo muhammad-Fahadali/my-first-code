@@ -3,3 +3,5 @@ javascript correction
 this is third bug fix  
 this is fourth bug fix 
 this is fifth bug fix
+
+pinkmode- one more bug added
